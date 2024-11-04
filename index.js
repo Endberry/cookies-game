@@ -1,5 +1,5 @@
 
-let cookies = document.cookie;
+let cookies = 0;
 //upgrades
 let cookiesOvenPrice = 100;
 let ovenQuantity = 0;
